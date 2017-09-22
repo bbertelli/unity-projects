@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: ed6129616db0ee940818c7d569cc4374
+timeCreated: 1430754982
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ChameleonPinkSpriteSheet_0
+    21300002: ChameleonPinkSpriteSheet_1
+    21300004: ChameleonPinkSpriteSheet_2
+    21300006: ChameleonPinkSpriteSheet_3
+    21300008: ChameleonPinkSpriteSheet_4
+    21300010: ChameleonPinkSpriteSheet_5
+    21300012: ChameleonPinkSpriteSheet_6
+    21300014: ChameleonPinkSpriteSheet_7
+    21300016: ChameleonPinkSpriteSheet_8
+    21300018: ChameleonPinkSpriteSheet_9
+    21300020: ChameleonPinkSpriteSheet_10
+    21300022: ChameleonPinkSpriteSheet_11
+    21300024: ChameleonPinkSpriteSheet_12
+    21300026: ChameleonPinkSpriteSheet_13
+    21300028: ChameleonPinkSpriteSheet_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ChameleonPinkSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 329
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 329
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 329
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 329
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 329
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 329
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 329
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 60
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 60
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 60
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 60
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 60
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 60
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPinkSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 60
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

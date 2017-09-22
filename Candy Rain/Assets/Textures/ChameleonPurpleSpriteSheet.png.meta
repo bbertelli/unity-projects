@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: b01566c96fda80043bb2e614a6ec8b5f
+timeCreated: 1430755058
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ChameleonPurpleSpriteSheet_0
+    21300002: ChameleonPurpleSpriteSheet_1
+    21300004: ChameleonPurpleSpriteSheet_2
+    21300006: ChameleonPurpleSpriteSheet_3
+    21300008: ChameleonPurpleSpriteSheet_4
+    21300010: ChameleonPurpleSpriteSheet_5
+    21300012: ChameleonPurpleSpriteSheet_6
+    21300014: ChameleonPurpleSpriteSheet_7
+    21300016: ChameleonPurpleSpriteSheet_8
+    21300018: ChameleonPurpleSpriteSheet_9
+    21300020: ChameleonPurpleSpriteSheet_10
+    21300022: ChameleonPurpleSpriteSheet_11
+    21300024: ChameleonPurpleSpriteSheet_12
+    21300026: ChameleonPurpleSpriteSheet_13
+    21300028: ChameleonPurpleSpriteSheet_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ChameleonPurpleSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 334
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 334
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 334
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 334
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 334
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 334
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 334
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 65
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 65
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 65
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 65
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 65
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 65
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 65
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChameleonPurpleSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 65
+        width: 280
+        height: 210
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

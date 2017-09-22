@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: ac810fc0418f9974f8236f6111309e37
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cherrycupcake_0
+    21300002: cherrycupcake_1
+    21300004: cherrycupcake_2
+    21300006: cherrycupcake_3
+    21300008: cherrycupcake_6
+    21300010: cherrycupcake_7
+    21300012: cherrycupcake_5
+    21300014: cherrycupcake_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cherrycupcake_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cherrycupcake_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cherrycupcake_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cherrycupcake_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cherrycupcake_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cherrycupcake_7
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cherrycupcake_5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cherrycupcake_4
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 0
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
